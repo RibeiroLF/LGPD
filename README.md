@@ -1,2 +1,2 @@
 # LGPD
-Lei Geral da Proteção de Dados
+Resumo da parte teorica da Lei Geral da Proteção de Dados

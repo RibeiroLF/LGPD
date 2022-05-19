@@ -43,4 +43,9 @@ Não se aplica
         não pode haver comunicação ou uso compartilhado de dados com agentes brasileiros
         nao pode haver transferencia internacional de dados com outro pais que nao o de proveniencia
         país de proveniencia deve ter grau de proteção de dados pessoais adequado ao previsto na LGPD
-         
+
+ AUTODETERMINAÇÃO INFORMATIVA
+    É um dos fundamentos da LGPD
+     É o direito do titular, de controle sobre os seus dados pessoais
+        Vai além do nível da esfera íntima do cidadão.
+        Foi considerado o um direito fundamental autônomo, ao lado da proteção de dados.
